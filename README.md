@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Franxx73
+# 👋 Hi there! I'm Fran
 
 I'm a fullstack developer with experience in Angular, SAPUI5, .NET, C#, TypeScript, and Docker. I'm currently working on web solutions at a consultancy while completing my Computer Science degree.
 
